@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
+  m_Name: "S\u1EA3n Ph\u1EA9m"
+  m_EditorClassIdentifier: 
+  name: 
+  infor: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+    thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+    t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u t\u1EA1o
+    c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7 tr\u1EE3
+    c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t s\u1ED1ng,
+    vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi ph\u1EA3i
+    ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9 v\xE0 th\u1EDDi
+    gian d\xE0i"
+  folderPath: Assets/App25
+  SanPham:
+  - ID: 0
+    anh: {fileID: 21300000, guid: 6cf87198892580a46bfec871f1413cfd, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "870.000 \u0111"
+    name: 
+  - ID: 1
+    anh: {fileID: 21300000, guid: 1f1890deba63ce643bf671d79ff5332f, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "4.000.000 \u0111"
+    name: 
+  - ID: 2
+    anh: {fileID: 21300000, guid: 1c0929a857b9d7c419b47fb8853cfed8, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "17.000.000 \u0111"
+    name: 
+  - ID: 3
+    anh: {fileID: 21300000, guid: 97033a0c699a375448ef4f95c65000e3, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "4.000.000 \u0111"
+    name: 
+  - ID: 4
+    anh: {fileID: 21300000, guid: cef068f5a7af9b94e9145f7ba5d0bfda, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "13.000.000 \u0111"
+    name: 
+  - ID: 5
+    anh: {fileID: 21300000, guid: 2582610c647701d4c81daedec2692767, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "4.000.000 \u0111"
+    name: 
+  - ID: 6
+    anh: {fileID: 21300000, guid: 0107b5b655480694482222fa33035361, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "430.000 \u0111"
+    name: 
+  - ID: 7
+    anh: {fileID: 21300000, guid: 59164cde1ad5fda46a134f5eefcbae25, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "980.000 \u0111"
+    name: 
+  - ID: 8
+    anh: {fileID: 21300000, guid: a27b98ce1baae804ea4441b77450098b, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "990.000 \u0111"
+    name: 
+  - ID: 9
+    anh: {fileID: 21300000, guid: 34e5a8c21025fb14588e3cb12b8904c3, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "780.000 \u0111"
+    name: 
+  - ID: 10
+    anh: {fileID: 21300000, guid: a5b53e503706be441ba7e539661b77f8, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "9.000.000 \u0111"
+    name: 
+  - ID: 11
+    anh: {fileID: 21300000, guid: d788763e7417c554d9f4ca53f80b7929, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "920.000 \u0111"
+    name: 
+  - ID: 12
+    anh: {fileID: 21300000, guid: 369a2ac4e14ddd74b90e3fbea214def1, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "430.000 \u0111"
+    name: 
+  - ID: 13
+    anh: {fileID: 21300000, guid: dc748154a71c4b84aa92ee27a2431105, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "690.000 \u0111"
+    name: 
+  - ID: 14
+    anh: {fileID: 21300000, guid: 72e0fe85886fa514c83d6d6895ea9f80, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "Gh\u1EBF C\xF4ng Th\xE1i H\u1ECDc Ergonomic IFIT Smile - Grey v\u1EDBi
+      thi\u1EBFt k\u1EBF chu\u1EA9n C\xF4ng th\xE1i h\u1ECDc c\xF9ng t\xEDnh n\u0103ng
+      t\xF9y ch\u1EC9nh, ph\xF9 h\u1EE3p v\u1EDBi c\u1EA5u tr\xFAc v\xE0 c\u1EA5u
+      t\u1EA1o c\u1EE7a c\u01A1 th\u1EC3 ng\u01B0\u1EDDi d\xF9ng, nh\u1EB1m h\u1ED7
+      tr\u1EE3 c\u1EA3i thi\u1EC7n c\xE1c v\u1EA5n \u0111\u1EC1 v\u1EC1 c\u1ED9t
+      s\u1ED1ng, vai, \u0111\u1ED1t s\u1ED1ng c\u1ED5 v\xE0 th\u1EAFt l\u01B0ng khi
+      ph\u1EA3i ng\u1ED3i l\xE0m vi\u1EC7c v\u1EDBi c\u01B0\u1EDDng \u0111\u1ED9
+      v\xE0 th\u1EDDi gian d\xE0i"
+    gia: "990.000 \u0111"
+    name: 
